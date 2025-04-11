@@ -1,0 +1,3 @@
+<launch>
+<node pkg="topics_quiz" type="Publisher.py" name="Numebun" output="screen"/>
+</launch>
