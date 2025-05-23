@@ -1,0 +1,3 @@
+<launch>
+<node pkg="actions_quiz" type= "action_quiz_server.py" name = "actions" output = "Screen/>
+</launch>
